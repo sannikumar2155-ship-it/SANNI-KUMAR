@@ -1,0 +1,6 @@
+{
+  "name": "Lovera",
+  "description": "Dating, voice party rooms, real-time chat, virtual gifts, VIP club, and social discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
